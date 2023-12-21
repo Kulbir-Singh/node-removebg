@@ -1,6 +1,6 @@
 {
 	"name": "node-removebg",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "remove background from images",
 	"repository": "https://github.com/Kulbir-Singh/node-removebg",
 	"author": "kulbir",
